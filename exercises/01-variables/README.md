@@ -11,9 +11,9 @@ Primeiros exercícios utilizando variáveis em Java.
 
 ---
 
-## Exercícios
+## Exercício
 
-- [ ] Exercício 1 - ***
+- [x] Exercício 1 - Cadastro de Animal
 - [ ] Exercício 2 - ***
 - [ ] Exercício 3 - ***
 - [ ] Exercício 4 - ***
