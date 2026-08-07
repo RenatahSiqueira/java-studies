@@ -6,7 +6,7 @@ Nesta pasta estão todos os exercícios realizados durante meus estudos.
 
 | Conteúdo | Status |
 |-----------|:------:|
-| Variáveis | ⏳ |
+| Variáveis | ✅ |
 | Operadores | ⏳ |
 | Entrada de Dados (Scanner) | ⏳ |
 | Estruturas Condicionais | ⏳ |
