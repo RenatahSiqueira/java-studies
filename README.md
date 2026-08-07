@@ -36,7 +36,7 @@ Nesta seção estão os exercícios realizados durante os estudos dos principais
 
 | Conteúdo | Status |
 |-----------|:------:|
-| Variáveis | ⏳ |
+| Variáveis | ✅ |
 | Operadores | ⏳ |
 | Entrada de Dados (Scanner) | ⏳ |
 | Estruturas Condicionais | ⏳ |
